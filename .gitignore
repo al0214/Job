@@ -1,9 +1,13 @@
+
+
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,macos,react,reactnative,nextjs,intellij+all,java,kotlin,androidstudio
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,macos,react,reactnative,nextjs,intellij+all,java,kotlin,androidstudio
 
 ### Intellij+all ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+
+/src
 
 # User-specific stuff
 .idea/**/workspace.xml
